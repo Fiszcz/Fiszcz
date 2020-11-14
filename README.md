@@ -1,4 +1,4 @@
-### Hi friends <img src="https://media.giphy.com/media/jVIKa3erp2SqgmmrAK/giphy.gif" width="25px">
+# Hello world <img src="https://media.giphy.com/media/l4pTggBKz7vqqF9TO/giphy.gif" width="33px">
 
 <!--
 **Fiszcz/Fiszcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
